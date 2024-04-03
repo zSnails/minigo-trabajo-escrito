@@ -1,9 +1,6 @@
 [submodule "minigo"]
 	path = minigo
 	url = https://github.com/zSnails/minigo
-[submodule "Tronchaedit"]
-	path = Tronchaedit
-	url = https://github.com/mortalcr/Tronchaeditor
 [submodule "Tronchaeditor"]
 	path = Tronchaeditor
 	url = https://github.com/mortalcr/Tronchaeditor
