@@ -4,3 +4,6 @@
 [submodule "Tronchaedit"]
 	path = Tronchaedit
 	url = https://github.com/mortalcr/Tronchaeditor
+[submodule "Tronchaeditor"]
+	path = Tronchaeditor
+	url = https://github.com/mortalcr/Tronchaeditor
