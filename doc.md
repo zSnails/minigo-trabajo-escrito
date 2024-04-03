@@ -254,4 +254,14 @@ proyecto.
 
 # Conclusiones 
 
-Basándonos en el análisis exhaustivo de la gramática presentada, se puede concluir que el lenguaje propuesto representa una versión simplificada y más accesible del paradigma de programación de Go. Si bien mantiene muchos de los principios fundamentales de Go, como la fuerte tipificación de variables, las funciones y las estructuras de control, se han realizado simplificaciones significativas en algunas áreas para mejorar la legibilidad y reducir la complejidad sintáctica.Estas modificaciones podrían resultar beneficiosas para aquellos nuevos en la programación o para proyectos que no requieran toda la complejidad y el rigor de Go en su forma tradicional. Sin embargo, es importante tener en cuenta que estas simplificaciones también pueden limitar la capacidad del lenguaje para abordar problemas más complejos y sofisticados de manera eficiente.
+Basándonos en el análisis exhaustivo de la gramática presentada, se puede concluir
+que el lenguaje propuesto representa una versión simplificada y más accesible del
+paradigma de programación de Go. Si bien mantiene muchos de los principios
+fundamentales de Go, como la fuerte tipificación de variables, las funciones y las
+estructuras de control, se han realizado simplificaciones significativas en algunas
+áreas para mejorar la legibilidad y reducir la complejidad sintáctica.Estas
+modificaciones podrían resultar beneficiosas para aquellos nuevos en la programación
+o para proyectos que no requieran toda la complejidad y el rigor de Go en su forma
+tradicional. Sin embargo, es importante tener en cuenta que estas simplificaciones
+también pueden limitar la capacidad del lenguaje para abordar problemas más complejos
+y sofisticados de manera eficiente.
