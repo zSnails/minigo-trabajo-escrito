@@ -1,0 +1,13 @@
+documentclass: apa7
+classoption:
+  - stu
+author: Aaron González, Daniel Porras
+title: "MiniGo Compiler & Editor"
+lang: es
+toc: true
+header-includes: |
+  \affiliation{ITCR}
+  \professor{Óscar Víquiez}
+  \duedate{\today}
+  \course{Compiladores e Intérpretes}
+  \shorttitle{MINIGO}
