@@ -1,0 +1,15 @@
+documentclass: apa7
+classoption:
+  - stu
+author: Aaron González, Daniel Porras
+title: "MiniGo: Compilador y Editor: Parte 3"
+lang: es
+toc: true
+header-includes: |
+  \affiliation{ITCR}
+  \professor{Óscar Víquez}
+  \duedate{\today}
+  \course{Compiladores e Intérpretes}
+  \shorttitle{Compilación con LLVM}
+nocite: |
+  @*
