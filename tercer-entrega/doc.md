@@ -42,7 +42,7 @@ programa standalone, primero de debe compilar el compilador usando el siguiente
 comando:
 
 ```sh
-go build -o minigo ./cmd
+go build -o minigo ./cmd/minigo
 ```
 
 > Es importante mantener el `./` (o `.\` si se encuentra en windows), de lo contrario
